@@ -1,27 +1,36 @@
 aid: egifter
-name: eGifter
-description: 'eGifter Offers a Turnkey, Seamless and Secure Gift Card APITM Integratio '
-type: Index
-position: Consumer
-access: 3rd-Party
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
-created: '2025-02-08'
-modified: '2025-02-08'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/egifter/refs/heads/main/apis.yml
-specificationVersion: '0.19'
 apis:
   - aid: egifter:egifter
-    name: eGifter
-    description: 'eGifter Offers a Turnkey, Seamless and Secure Gift Card APITM Integratio '
-    humanURL: ' https://corporate.egifter.com/gift-card-api/'
+    name: eGifter API
     tags:
-      - API
+      - Gift Cards
+    humanURL: ' https://corporate.egifter.com/gift-card-api/'
     properties:
-      - type: Documentation
-        url: ' https://corporate.egifter.com/gift-card-api/'
+      - url: ' https://corporate.egifter.com/gift-card-api/'
+        type: Documentation
+    description: 'eGifter Offers a Turnkey, Seamless and Secure Gift Card APITM Integratio '
+name: eGifter
+tags:
+  - Gift Cards
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-02-08'
+modified: '2025-03-29'
+position: Consumer
+description: >-
+  eGifter is a digital gift card platform that allows people to easily send and
+  receive gift cards for a wide variety of retailers and brands. Users can
+  choose from hundreds of options including popular stores, restaurants, and
+  entertainment venues. Whether it's for a birthday, holiday, or just to show
+  appreciation, eGifter makes it simple to find the perfect gift for any
+  occasion. The platform also offers the ability to personalize gift cards with
+  messages and photos, making the experience even more special for both the
+  sender and recipient. With eGifter, giving the gift of choice has never been
+  easier.
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+specificationVersion: '0.19'
