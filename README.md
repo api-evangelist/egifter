@@ -16,15 +16,16 @@ eGifter is a digital gift card platform that allows people to easily send and re
 ## Timestamps
 
 - **Created:** 2025-02-08 
-- **Modified:** 2025-03-29 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
 ### eGifter API
 The eGifter API is a powerful tool that allows developers to integrate digital gifting capabilities into their applications and websites. With this API, users can easily send personalized gift cards for a wide variety of merchants, including popular retailers, restaurants, and entertainment venues. The API streamlines the gift-giving process, offering a seamless experience for both the sender and recipient. Additionally, developers can access a range of features and functionalities through the API, such as balance checking, order tracking, and real-time notifications. Overall, the eGifter API provides a convenient and efficient solution for incorporating digital gifting into any platform.
 
-**Human URL:** [ https://corporate.egifter.com/gift-card-api/]( https://corporate.egifter.com/gift-card-api/)
+**Human URL:** [https://corporate.egifter.com/gift-card-api/](https://corporate.egifter.com/gift-card-api/)
 
+**Base URL:** [https://rewards-api.egifter.com/](https://rewards-api.egifter.com/)
 
 #### Tags:
 
@@ -32,7 +33,9 @@ The eGifter API is a powerful tool that allows developers to integrate digital g
 
 #### Properties
 
-- [Documentation]( https://corporate.egifter.com/gift-card-api/)
+- [Documentation](https://corporate.egifter.com/gift-card-api/)
+- [Documentation](https://rewards-api.egifter.com/index.html)
+- [SignupURL](https://corporate.egifter.com/contact/)
 
 ## Common Properties
 

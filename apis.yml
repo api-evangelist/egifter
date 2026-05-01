@@ -6,10 +6,15 @@ apis:
     name: eGifter API
     tags:
       - Gift Cards
-    humanURL: ' https://corporate.egifter.com/gift-card-api/'
+    humanURL: https://corporate.egifter.com/gift-card-api/
+    baseURL: https://rewards-api.egifter.com/
     properties:
-      - url: ' https://corporate.egifter.com/gift-card-api/'
+      - url: https://corporate.egifter.com/gift-card-api/
         type: Documentation
+      - url: https://rewards-api.egifter.com/index.html
+        type: Documentation
+      - url: https://corporate.egifter.com/contact/
+        type: SignupURL
     description: >-
       The eGifter API is a powerful tool that allows developers to integrate digital
       gifting capabilities into their applications and websites. With this API, users
@@ -24,7 +29,7 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-02-08'
-modified: '2026-03-16'
+modified: '2026-04-28'
 position: Consumer
 description: >-
   eGifter is a digital gift card platform that allows people to easily send and receive
