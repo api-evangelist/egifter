@@ -1,0 +1,13 @@
+{
+  "repo": "egifter",
+  "feeds": [
+    {
+      "source": "https://corporate.egifter.com/powered-by-egifter/",
+      "feed_url": "https://corporate.egifter.com/feed/",
+      "saved": 10,
+      "title": "eGifter Merchants"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:27:22Z"
+}

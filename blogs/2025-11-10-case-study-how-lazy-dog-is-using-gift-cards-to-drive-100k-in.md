@@ -1,0 +1,59 @@
+---
+title: "Case Study: How Lazy Dog is Using Gift Cards to Drive $100K in Charitable Giving"
+url: "https://corporate.egifter.com/case-study-lazy-dog/"
+date: "Mon, 10 Nov 2025 18:13:56 +0000"
+author: "Shelley Hunter"
+feed_url: "https://corporate.egifter.com/feed/"
+---
+<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling"><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-12 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-16 fusion-text-no-margin"><div style="background-color: #e8eff9; padding: 15px; border-radius: 5px;">
+<h2 class="fusion-responsive-typography-calculated">At a Glance</h2>
+<ul>
+<li><b style="font-size: 18px;">Client: </b><span style="font-size: 18px;">Lazy Dog Restaurants</span></li>
+<li><b style="font-size: 18px;">Campaign:</b><span style="font-size: 18px;"> Holiday Gift Card Program with Charitable Giving</span></li>
+<li><b style="font-size: 18px;">Goal:</b><span style="font-size: 18px;"> Launch a new digital gift card experience with a $100K charitable donation component</span></li>
+<li><b style="font-size: 18px;">Solution:</b><span style="font-size: 18px;"> Co-branded Gift Card Storefront and B2B Sales Portal powered by eGifter Merchant Solutions™</span></li>
+<li><b style="font-size: 18px;">Results</b><span style="font-size: 18px;">: On-time launch, seamless user experience, and an ongoing campaign driving donations to Habitat for Humanity</span></li>
+</ul>
+</div>
+</div><div class="fusion-text fusion-text-17"><h2 class="fusion-responsive-typography-calculated" id="toc_Inside_eGifter_SmartKYBTM_An_Interview_with_Tyler_Roye">What&#8217;s Inside</h2>
+</div><div class="awb-toc-el awb-toc-el--3"><div class="awb-toc-el__content"></div></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-13 fusion_builder_column_1_1 1_1 fusion-flex-column .custom-list li { padding-bottom: 20px; }"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-18"><h2 class="" id="toc_The_Challenge_Increase_InStore_Excitement"><b>Challenge:</b> Launching with Heart (and a Deadline)</h2>
+<p style="font-size: 18px;">Lazy Dog Restaurants, known for their warm hospitality and community-driven culture, wanted to do more than just serve great food—they wanted to make a tangible difference. Ahead of the 2025 holiday season, Lazy Dog set out to launch a new online gift card experience that would not only deliver convenience to guests—through <a href="https://corporate.egifter.com/gift-card-storefront/" rel="noopener noreferrer" target="_blank"><b>eGifter’s Gift Card Storefront™</b></a> and <a href="https://corporate.egifter.com/b2b-sales-portal/" rel="noopener noreferrer" target="_blank"><b>B2B Sales Portal™</b></a>—but also give back to a cause they deeply care about: Habitat for Humanity.</p>
+<p style="font-size: 18px;"><b>The challenge was twofold:</b></p>
+<ul>
+<li><span style="font-size: 18px;">Launch a new B2C and B2B gift card program in time for the critical holiday season</span></li>
+<li><span style="font-size: 18px;">Seamlessly integrate a charitable component to track and support Lazy Dog’s $100,000 commitment to Habitat for Humanity</span></li>
+</ul>
+</div><div class="fusion-image-element "><span class=" fusion-imageframe imageframe-none imageframe-8 hover-type-none"><img alt="man walking with shopping bags" class="img-responsive wp-image-31891" height="600" src="https://corporate.egifter.com/wp-content/uploads/2025/10/lazy-dog-and-habitat-branded-gift-cards.jpg" title="lazy dog and habitat branded gift cards" width="1200" /></span></div><div class="fusion-text fusion-text-19"><h2 class="" id="toc_The_Solution_Custom_Fulfillment_That_Made_Surprise_Scalable"><b>Solution:</b> A Gift Card Experience—Built for Impact and Urgency</h2>
+<p style="font-size: 18px;">Lazy Dog partnered with <a href="https://corporate.egifter.com/?utm_source=eGifter_marketplace&amp;utm_medium=20582210595&amp;utm_content=675227895527&amp;utm_campaign=eGifter_Business_page_Rewards_Button&amp;gclid=CjwKCAiA-vOsBhAAEiwAIWR0Td97-a2YRBeeJx2QBP5FdHJSf3v6pIxnv_t_gN6WCcR7JYQHxIAuSxoCTDkQAvD_BwE&amp;utm_source__c=hr.com&amp;utm_medium__c=Web&amp;utm_adgroupid__c=Banner&amp;utm_term__c=na&amp;utm_campaign__c=HR.com"><b>eGifter Merchant Solutions™</b></a> to <span style="font-size: 18px; background-color: rgba(0, 0, 0, 0);">design, develop, and launch the eGifter Gift Card Storefront and eGifter B2B Sales Portal, making gifting simple, meaningful, and immediate for consumers and companies alike.</span></p>
+<p style="font-size: 18px;"><span style="background-color: rgba(0, 0, 0, 0);">The new </span><b style="background-color: rgba(0, 0, 0, 0);"><a href="https://lazydog.egifter.com/gifter/digital" rel="noopener noreferrer" target="_blank">Lazy Dog Gift Card Site</a></b><span style="background-color: rgba(0, 0, 0, 0);"> went live just in time for the 2025 holiday season, </span><span style="font-size: 18px; background-color: rgba(0, 0, 0, 0);">providing a frictionless way for guests to purchase digital and physical gift cards—and from November 5, 2025, through June 30, 2026, every purchase contributes to a cause that builds homes and hope.</span></p>
+<p style="font-size: 18px;"><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;"><b>Key elements of the solution included:</b></span></p>
+<ul>
+<li style="padding-bottom: 20px;"><span style="font-size: 18px;"><b>Custom Co-Branded Gift Card Experience. </b></span><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">Beautifully designed digital and physical gift cards spotlighting Lazy Dog’s partnership with Habitat for Humanity.</span></li>
+<li style="padding-bottom: 20px;"><span style="font-size: 18px;"><b>Automated Donation Tracking.</b> </span><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">For every co-branded gift card sold online during the campaign window, Lazy Dog donates 10% of the total purchase price to Habitat for Humanity.</span></li>
+<li style="padding-bottom: 20px;"><span style="font-size: 18px;"><b>Seamless Purchase Flow.</b> </span><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">Guests can select designs, choose denominations, personalize messages, and send cards instantly—powered by eGifter’s robust digital gifting technology.</span></li>
+<li style="padding-bottom: 20px;"><span style="font-size: 18px;"><b>Secure, Scalable Platform.</b> </span><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">Built on eGifter’s enterprise-grade infrastructure to ensure high performance during peak holiday demand and beyond.</span></li>
+<li style="padding-bottom: 20px;"><span style="font-size: 18px;"><b>Full-Service Support. </b></span><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">Through eGifter’s Client Access Portal™ (CAP), Lazy Dog teams gain ongoing management, reporting, and customer support for a smooth experience from day one.</span></li>
+</ul>
+</div><div class="fusion-image-element "><span class=" fusion-imageframe imageframe-none imageframe-9 hover-type-none"><img alt="man walking with shopping bags" class="img-responsive wp-image-31903" height="600" src="https://corporate.egifter.com/wp-content/uploads/2025/11/lazy-dog-promo-habitat-for-humanity.jpg" title="lazy dog promo habitat for humanity" width="1200" /></span></div><div class="fusion-text fusion-text-20"><h2 class="fusion-responsive-typography-calculated" id="toc_Results_On_time_On_brand_and_Making_a"><b>Results:</b> On time, On brand, and Making a Difference</h2>
+<p style="font-size: 18px;">Together, Lazy Dog and eGifter created more than just a gift card storefront—we launched a platform for kindness. For Lazy Dog, giving back has never tasted so good.</p>
+<ul>
+<li style="padding-bottom: 20px;"><b style="font-size: 18px;">On-Time Holiday Launch. </b><span style="font-size: 18px;">The co-branded gift card site launched on schedule ahead of the 2025 holiday season, enabling frictionless gifting for both consumers and corporate buyers.</span></li>
+<li style="padding-bottom: 20px;"><b style="font-size: 18px;">Ongoing Community Impact.</b> <span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">From November 5, 2025, through June 30, 2026, Lazy Dog will donate 10% of every co-branded gift card sold online to Habitat for Humanity—supporting their commitment to contribute $100,000 toward affordable housing.</span></li>
+<li style="padding-bottom: 20px;"><b style="font-size: 18px;">Stronger Guest Loyalty.</b> <span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">Guests are embracing the opportunity to give a gift that gives back—deepening Lazy Dog’s connection to its community and reinforcing brand values.</span></li>
+<li style="padding-bottom: 20px;"><b style="font-size: 18px;">Turnkey Partnership. </b><span style="font-size: 18px;">eGifter’s full-service platform allows Lazy Dog to stay focused on mission and messaging, while eGifter manages the operational and technical complexity behind the scenes.</span></li>
+</ul>
+</div><div class="fusion-text fusion-text-21"><h2 class="" id="toc_Looking_Ahead"><b>Looking Ahead</b></h2>
+<p style="font-size: 18px;">With a purpose-driven gift card experience now live, Lazy Dog is showing how technology can bring hospitality and humanity together. As the program continues through June 2026, every card purchased is more than just a meal or a moment—it’s a step toward building homes, hope, and stronger community connections.</p>
+<p style="font-size: 18px;">For brands looking to launch fast, scale securely, and make an impact, Lazy Dog’s story is proof:</p>
+<blockquote style="font-size: 18px;">
+<p><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">“</span>Partnering with eGifter made it possible for us to launch a gift card program that reflects who we are as a brand. The technology was seamless, the support was hands-on, and most importantly, the experience is helping us make a real difference in the communities we care about.”</p>
+<p><span style="background-color: rgba(0, 0, 0, 0); font-size: 18px;">— Gift Card Program Manager, Lazy Dog Restaurants</span></p>
+</blockquote>
+</div><div class="fusion-text fusion-text-22"><p><b style="font-size: 18px;">Ready to Launch a Gift Card Program That Gives Back?</b></p>
+<p style="font-size: 18px;">With the right platform, giving back can be built in.</p>
+<p style="font-size: 18px;"><b style="background-color: rgba(0, 0, 0, 0); font-size: 16px;"><a href="https://corporate.egifter.com/contact/?utm_source=eGifter_marketplace&amp;utm_medium=20582210595&amp;utm_content=675227895527&amp;utm_campaign=eGifter_Business_page_Rewards_Button&amp;gclid=CjwKCAiA-vOsBhAAEiwAIWR0Td97-a2YRBeeJx2QBP5FdHJSf3v6pIxnv_t_gN6WCcR7JYQHxIAuSxoCTDkQAvD_BwE&amp;utm_source__c=hr.com&amp;utm_medium__c=Web&amp;utm_adgroupid__c=Banner&amp;utm_term__c=na&amp;utm_campaign__c=HR.com" rel="noopener noreferrer" style="font-size: 18px;" target="_blank">Contact Us</a></b><span style="background-color: rgba(0, 0, 0, 0);"> to explore the options.</span></p>
+<div>
+<div></div>
+</div>
+</div></div></div></div></div>
+<p>The post <a href="https://corporate.egifter.com/case-study-lazy-dog/">Case Study: How Lazy Dog is Using Gift Cards to Drive $100K in Charitable Giving</a> appeared first on <a href="https://corporate.egifter.com">eGifter Merchants</a>.</p>
