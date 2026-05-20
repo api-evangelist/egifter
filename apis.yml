@@ -42,6 +42,10 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: GitHubOrganization
+    url: https://github.com/eGifter
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/egifter
   - name: Powered by eGifter Blog - eGifter For Business
     description: 'null'
     url: https://corporate.egifter.com/powered-by-egifter/
