@@ -53,7 +53,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/egifter.pn
 access: 3rd-Party
 created: '2025-02-08'
 modified: '2026-07-25'
-position: Consumer
+position: Consuming
 description: >-
   eGifter is a digital gift card platform that allows people to easily send and receive
   gift cards for a wide variety of retailers and brands. Users can choose from hundreds
