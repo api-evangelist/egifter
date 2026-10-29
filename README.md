@@ -1,4 +1,4 @@
-# eGifter (egifter)
+# eGifter
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,46 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eGifter is a digital gift card platform that allows people to easily send and receive gift cards for a wide variety of retailers and brands. Users can choose from hundreds of options including popular stores, restaurants, and entertainment venues. Whether it's for a birthday, holiday, or just to show appreciation, eGifter makes it simple to find the perfect gift for any occasion. The platform also offers the ability to personalize gift cards with messages and photos, making the experience even more special for both the sender and recipient. With eGifter, giving the gift of choice has never been easier.
+eGifter is a digital gift card platform that allows people to easily send and receive gift cards for a wide variety of retailers and brands. Users can choose from hundreds of options including popular stores, restaurants, and entertainment venues. Whether it's for a birthday, holiday, or just to show appreciation, eGifter makes it simple to find the perfect gift for any occasion.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/egifter/refs/heads/main/apis.yml)
+**Areas:** Gift Cards
 
-## Scope
+## eGifter on APIs.io
 
-- **Type:** Index 
-- **Position:** Consumer 
-- **Access:** 3rd-Party 
+Everything profiled for eGifter is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/egifter/](https://apis.io/providers/egifter/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Gift Cards
+- [eGifter API](https://apis.io/apis/egifter/egifter/) — The eGifter API is a powerful tool that allows developers to integrate digital gifting capabilities into their applications and websites. With this API,…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-08 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags:
+- [Egifter Domain Security](https://apis.io/security/egifter/egifter-domain-security/)
 
- - Gift Cards
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://corporate.egifter.com/gift-card-api/)
-- [Documentation](https://rewards-api.egifter.com/index.html)
-- [SignupURL](https://corporate.egifter.com/contact/)
+- [Egifter Plans Pricing](https://apis.io/plans/egifter/egifter-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
 
+Published request limits.
+
+- [Egifter Rate Limits](https://apis.io/rate-limits/egifter/egifter-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Egifter Finops](https://apis.io/finops/egifter/egifter-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://egifter.com)
 - [Blog](https://corporate.egifter.com/powered-by-egifter/)
-- [FAQ](https://support.egifter.com/hc/en-us)
-- [PrivacyPolicy](https://www.egifter.com/privacy/)
+- [Privacy policy](https://www.egifter.com/privacy/)
+- [GitHub](https://github.com/eGifter)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 11.5** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.9** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/egifter/](https://apis.io/providers/egifter/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for eGifter: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/egifter/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
